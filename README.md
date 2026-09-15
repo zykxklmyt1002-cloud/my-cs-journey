@@ -1,2 +1,2 @@
 # my-cs-journey
-im going to learn coding, so id like to create this repository as a 见证.
+建立该仓，以明吾编程之志
